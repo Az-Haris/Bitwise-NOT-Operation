@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635247493 source:c:\users\md alimuzzaman haris\desktop\c programme\bitwise not operation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
